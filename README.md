@@ -2,6 +2,7 @@
 # TODO LIST
 
 - [ ] Optical Flow : create a sliding window to collect the last-second features detected.
+- [ ] The algorithm seems to choose features related to elements outside the road (like trees and building), and that is probably not a good idea --> Create a mask that forces it to search for features in the road zone (line lane markings).
 - [ ] Use the Optical Flow information to estimate the vanishing point of the image.
 - [ ] Use the position of the vanishing point in the image ref frame to estimate pitch and yaw.
 
