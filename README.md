@@ -1,11 +1,11 @@
 
 # TODO LIST
 
--[] Optical Flow : create a sliding window to collect the last-second features detected.
--[] Use the Optical Flow information to estimate the vanishing point of the image.
--[] Use the position of the vanishing point in the image ref frame to estimate pitch and yaw.
+- [] Optical Flow : create a sliding window to collect the last-second features detected.
+- [] Use the Optical Flow information to estimate the vanishing point of the image.
+- [] Use the position of the vanishing point in the image ref frame to estimate pitch and yaw.
 
-** ORIGINAL README BELOW **
+# ** BELOW, ORIGINAL README FROM FORKED REPO **
 
 Welcome to the comma.ai Calibration Challenge!
 ======
