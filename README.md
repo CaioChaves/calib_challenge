@@ -1,9 +1,9 @@
 
 # TODO LIST
 
-- [] Optical Flow : create a sliding window to collect the last-second features detected.
-- [] Use the Optical Flow information to estimate the vanishing point of the image.
-- [] Use the position of the vanishing point in the image ref frame to estimate pitch and yaw.
+- [ ] Optical Flow : create a sliding window to collect the last-second features detected.
+- [ ] Use the Optical Flow information to estimate the vanishing point of the image.
+- [ ] Use the position of the vanishing point in the image ref frame to estimate pitch and yaw.
 
 # ** BELOW, ORIGINAL README FROM FORKED REPO **
 
